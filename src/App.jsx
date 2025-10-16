@@ -370,6 +370,7 @@ function App() {
     .question-text {
       margin-bottom: 8px;
       color: #374151;
+      font-size: 16px;
     }
     
     .answer {
