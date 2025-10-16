@@ -370,7 +370,7 @@ function App() {
     .question-text {
       margin-bottom: 8px;
       color: #374151;
-      font-size: 16px;
+      font-size: 18px;
     }
     
     .answer {
@@ -492,7 +492,7 @@ function App() {
       <div className="container">
         <header className="app-header">
           <h1>21 Laws of Leadership</h1>
-          <p className="subtitle">Manager Evaluation</p>
+          <p className="subtitle">Self-Assessment</p>
         </header>
 
         <div className="info-card">
